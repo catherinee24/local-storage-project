@@ -1,6 +1,6 @@
 #  Small localStorage project 🦄
 
-Live Demo 💥: https://cheery-dusk-15e1d0.netlify.app/
+Live Demo 💥: https://astonishing-churros-f1bd4c.netlify.app/
 
 Hi Guys!! 👋
 
@@ -40,8 +40,8 @@ I want to show you a web development project that I have carried out, with the p
 Clone this repo
 
 ```
-git clone https://github.com/catherinee24/Web-developer-project
-cd Web-developer-project
+git clone https://github.com/catherinee24/catherinee24/local-storage-project
+cd local-storage-project
 ```
 Then install dependencies
 
